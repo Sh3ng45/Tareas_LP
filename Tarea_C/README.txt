@@ -1,3 +1,4 @@
+Fecha: 06/10/2022
 Vicente Henríquez
 202051507-7
 
@@ -6,4 +7,4 @@ compila los archivos main.c y certamen.c y finalmente ejecuta el archivo .exe de
 individualmente se puede hacer lo primero con make clean, lo segundo con make executable y lo tercero con 
 make execute respectivamente
 
-Solo logre desarrollar algunas funciones, y el main no muestra nada por consola.
+Solo se logró desarrollar algunas funciones, y el main no muestra nada por consola.
